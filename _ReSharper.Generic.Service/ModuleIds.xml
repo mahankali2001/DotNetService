@@ -1,0 +1,11 @@
+<Modules>
+  <Module PersistentId="C67747E4-43F5-41C6-973D-CE7027E92C43" ModuleId="Business.Implementation" />
+  <Module PersistentId="42D36F27-F8DC-415B-96E2-3B46511B0B03" ModuleId="Core.Logger" />
+  <Module PersistentId="18E84DAC-9649-4100-956C-B5444AF145D1" ModuleId="Persistence.Interface" />
+  <Module PersistentId="C92562A9-0B46-4C24-8F55-377E86929C58" ModuleId="Business.Interface" />
+  <Module PersistentId="AB7B1C98-DF79-4D1F-9D9B-CF38D9EB8F39" ModuleId="Service.Contracts" />
+  <Module PersistentId="BB06A31C-B42F-43FF-9BD8-567C27758C2D" ModuleId="MicroService.InterServiceLibrary" />
+  <Module PersistentId="147EF131-BA86-4018-9D85-C25321389F4C" ModuleId="Persistence.Implementation" />
+  <Module PersistentId="E24BF4B2-292E-4AB8-A196-02DDC5862EC1" ModuleId="Persistence.Entities" />
+  <Module PersistentId="4E4D9EF1-BD56-4261-B761-F1C2F37086E0" ModuleId="Services.Implementation" />
+</Modules>

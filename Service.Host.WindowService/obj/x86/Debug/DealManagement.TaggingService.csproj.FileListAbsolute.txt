@@ -1,0 +1,9 @@
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\_drop\HybridWindowsService.dll
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\_drop\app.config
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\_drop\DealManagement.TaggingService.exe.config
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\_drop\DealManagement.TaggingService.exe
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\_drop\DealManagement.TaggingService.pdb
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\Service.Host.WindowService\obj\x86\Debug\Service.Host.WindowService.ProjectInstaller.resources
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\Service.Host.WindowService\obj\x86\Debug\DealManagement.TaggingService.csproj.GenerateResource.Cache
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\Service.Host.WindowService\obj\x86\Debug\DealManagement.TaggingService.exe
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\Service.Host.WindowService\obj\x86\Debug\DealManagement.TaggingService.pdb

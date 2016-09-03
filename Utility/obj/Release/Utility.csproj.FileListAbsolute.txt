@@ -1,0 +1,15 @@
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\bin\Release\Utility.dll.config
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\bin\Release\Utility.dll
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\bin\Release\Utility.pdb
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\bin\Release\Core.Logger.dll
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\bin\Release\EntityFramework.dll
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\bin\Release\EntityFramework.SqlServer.dll
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\bin\Release\Persistence.Entities.dll
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\bin\Release\log4net.dll
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\bin\Release\Core.Logger.pdb
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\bin\Release\Persistence.Entities.pdb
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\bin\Release\EntityFramework.xml
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\bin\Release\EntityFramework.SqlServer.xml
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\bin\Release\log4net.xml
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\obj\Release\Utility.dll
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\Utility\obj\Release\Utility.pdb

@@ -1,0 +1,14 @@
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\_drop\Core.Logger.dll
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\_drop\Core.Logger.pdb
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\Core.Logger\obj\Debug\Core.Logger.dll
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\Core.Logger\obj\Debug\Core.Logger.pdb
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Template\_drop\Core.Logger.dll
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Template\_drop\Core.Logger.pdb
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Template\Core.Logger\obj\Debug\Core.Logger.dll
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Template\Core.Logger\obj\Debug\Core.Logger.pdb
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Template\Core.Logger\obj\Debug\Core.Logger.csprojResolveAssemblyReference.cache
+C:\Tech\REST\_drop\Core.Logger.dll
+C:\Tech\REST\_drop\Core.Logger.pdb
+C:\Tech\REST\Core.Logger\obj\Debug\Core.Logger.csprojResolveAssemblyReference.cache
+C:\Tech\REST\Core.Logger\obj\Debug\Core.Logger.dll
+C:\Tech\REST\Core.Logger\obj\Debug\Core.Logger.pdb

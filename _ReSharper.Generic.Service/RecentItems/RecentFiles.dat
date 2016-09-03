@@ -1,0 +1,65 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="C67747E4-43F5-41C6-973D-CE7027E92C43/d:Extension/f:MapperExtension.cs" caret="288" fromTop="1" />
+    <File id="AB7B1C98-DF79-4D1F-9D9B-CF38D9EB8F39/d:Contracts/d:Data/d:DTO/f:IdValuePair.cs" caret="463" fromTop="19" />
+    <File id="BB06A31C-B42F-43FF-9BD8-567C27758C2D/f:RestClient.cs" caret="244" fromTop="9" />
+    <File id="147EF131-BA86-4018-9D85-C25321389F4C/f:DataManager.cs" caret="662" fromTop="22" />
+    <File id="18E84DAC-9649-4100-956C-B5444AF145D1/f:app.config" caret="1384" fromTop="22" />
+    <File id="18E84DAC-9649-4100-956C-B5444AF145D1/f:IDatabaseContext.cs" caret="0" fromTop="0" />
+    <File id="AB7B1C98-DF79-4D1F-9D9B-CF38D9EB8F39/d:Core/f:Constants.cs" caret="425" fromTop="9" />
+    <File id="AB7B1C98-DF79-4D1F-9D9B-CF38D9EB8F39/d:Contracts/d:Data/f:AppUser.cs" caret="0" fromTop="0" />
+    <File id="C92562A9-0B46-4C24-8F55-377E86929C58/f:ITEMPLATEBusiness.cs" caret="289" fromTop="9" />
+    <File id="147EF131-BA86-4018-9D85-C25321389F4C/d:Context/f:IDatabaseContext.cs" caret="1284" fromTop="19" />
+    <File id="E24BF4B2-292E-4AB8-A196-02DDC5862EC1/d:Extension/f:DataTableExtension.cs" caret="0" fromTop="0" />
+    <File id="18E84DAC-9649-4100-956C-B5444AF145D1/d:Repository/f:ITEMPLATERepository.cs" caret="338" fromTop="12" />
+    <File id="E24BF4B2-292E-4AB8-A196-02DDC5862EC1/f:TEMPLATEEntity.cs" caret="290" fromTop="10" />
+    <File id="147EF131-BA86-4018-9D85-C25321389F4C/d:Context/f:RepositoryContext.cs" caret="1593" fromTop="26" />
+    <File id="E24BF4B2-292E-4AB8-A196-02DDC5862EC1/d:DTO/f:UserDTO.cs" caret="448" fromTop="18" />
+    <File id="AB7B1C98-DF79-4D1F-9D9B-CF38D9EB8F39/d:Contracts/d:Data/f:User.cs" caret="910" fromTop="26" />
+    <File id="E24BF4B2-292E-4AB8-A196-02DDC5862EC1/f:User.cs" caret="424" fromTop="17" />
+    <File id="AB7B1C98-DF79-4D1F-9D9B-CF38D9EB8F39/d:Contracts/d:Service/f:IRESTTEMPLATEExternalApi.cs" caret="891" fromTop="18" />
+    <File id="147EF131-BA86-4018-9D85-C25321389F4C/d:Repository/f:TEMPLATERepository.cs" caret="1152" fromTop="25" />
+    <File id="AB7B1C98-DF79-4D1F-9D9B-CF38D9EB8F39/d:Core/f:RestUrls.cs" caret="755" fromTop="18" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Core/f:Constants.cs" caret="280" fromTop="10" />
+    <File id="C67747E4-43F5-41C6-973D-CE7027E92C43/f:TEMPLATEBusiness.cs" caret="2051" fromTop="19" />
+    <File id="147EF131-BA86-4018-9D85-C25321389F4C/d:Context/f:DatabaseContext.cs" caret="4369" fromTop="16" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Core/f:Common.cs" caret="43" fromTop="1" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Core/f:ApplySecurityBehavior.cs" caret="262" fromTop="9" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Services/f:TEMPLATEServiceImplementation.cs" caret="466" fromTop="15" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Core/f:CoreService.cs" caret="585" fromTop="20" />
+    <File id="3F6B0C23-0D97-42C5-B238-700EF083A140/f:app.config" caret="5611" fromTop="10" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Core/f:WCFMessageLoggerBehavior.cs" caret="869" fromTop="13" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="AB7B1C98-DF79-4D1F-9D9B-CF38D9EB8F39/d:Contracts/d:Service/f:IRESTTEMPLATEExternalApi.cs" caret="1143" fromTop="22" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Services/f:TEMPLATEServiceImplementation.cs" caret="269" fromTop="8" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Services/f:TEMPLATEServiceImplementation.cs" caret="1945" fromTop="19" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Services/f:TEMPLATEServiceImplementation.cs" caret="2059" fromTop="24" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Services/f:TEMPLATEServiceImplementation.cs" caret="2193" fromTop="29" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Services/f:TEMPLATEServiceImplementation.cs" caret="2289" fromTop="34" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Services/f:TEMPLATEServiceImplementation.cs" caret="1687" fromTop="33" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Services/f:TEMPLATEServiceImplementation.cs" caret="1884" fromTop="27" />
+    <File id="C92562A9-0B46-4C24-8F55-377E86929C58/f:ITEMPLATEBusiness.cs" caret="289" fromTop="9" />
+    <File id="E24BF4B2-292E-4AB8-A196-02DDC5862EC1/d:DTO/f:UserDTO.cs" caret="267" fromTop="11" />
+    <File id="E24BF4B2-292E-4AB8-A196-02DDC5862EC1/d:DTO/f:UserDTO.cs" caret="427" fromTop="17" />
+    <File id="C67747E4-43F5-41C6-973D-CE7027E92C43/f:TEMPLATEBusiness.cs" caret="2805" fromTop="37" />
+    <File id="C67747E4-43F5-41C6-973D-CE7027E92C43/f:TEMPLATEBusiness.cs" caret="2794" fromTop="36" />
+    <File id="AB7B1C98-DF79-4D1F-9D9B-CF38D9EB8F39/d:Contracts/d:Data/f:User.cs" caret="594" fromTop="15" />
+    <File id="AB7B1C98-DF79-4D1F-9D9B-CF38D9EB8F39/d:Contracts/d:Data/f:User.cs" caret="910" fromTop="26" />
+    <File id="147EF131-BA86-4018-9D85-C25321389F4C/d:Repository/f:TEMPLATERepository.cs" caret="1142" fromTop="32" />
+    <File id="147EF131-BA86-4018-9D85-C25321389F4C/d:Repository/f:TEMPLATERepository.cs" caret="1142" fromTop="27" />
+    <File id="147EF131-BA86-4018-9D85-C25321389F4C/d:Repository/f:TEMPLATERepository.cs" caret="1142" fromTop="24" />
+    <File id="18E84DAC-9649-4100-956C-B5444AF145D1/d:Repository/f:ITEMPLATERepository.cs" caret="338" fromTop="12" />
+    <File id="C67747E4-43F5-41C6-973D-CE7027E92C43/f:TEMPLATEBusiness.cs" caret="1796" fromTop="25" />
+    <File id="C67747E4-43F5-41C6-973D-CE7027E92C43/f:TEMPLATEBusiness.cs" caret="1853" fromTop="29" />
+    <File id="C67747E4-43F5-41C6-973D-CE7027E92C43/f:TEMPLATEBusiness.cs" caret="1853" fromTop="26" />
+    <File id="C67747E4-43F5-41C6-973D-CE7027E92C43/f:TEMPLATEBusiness.cs" caret="2324" fromTop="26" />
+    <File id="147EF131-BA86-4018-9D85-C25321389F4C/d:Context/f:RepositoryContext.cs" caret="1593" fromTop="26" />
+    <File id="C67747E4-43F5-41C6-973D-CE7027E92C43/f:TEMPLATEBusiness.cs" caret="2094" fromTop="11" />
+    <File id="AB7B1C98-DF79-4D1F-9D9B-CF38D9EB8F39/d:Core/f:RestUrls.cs" caret="755" fromTop="18" />
+    <File id="3F6B0C23-0D97-42C5-B238-700EF083A140/f:app.config" caret="6470" fromTop="19" />
+    <File id="3F6B0C23-0D97-42C5-B238-700EF083A140/f:app.config" caret="5502" fromTop="14" />
+    <File id="3F6B0C23-0D97-42C5-B238-700EF083A140/f:app.config" caret="5693" fromTop="20" />
+    <File id="4E4D9EF1-BD56-4261-B761-F1C2F37086E0/d:Core/f:WCFMessageLoggerBehavior.cs" caret="878" fromTop="13" />
+  </RecentEdits>
+</RecentFiles>

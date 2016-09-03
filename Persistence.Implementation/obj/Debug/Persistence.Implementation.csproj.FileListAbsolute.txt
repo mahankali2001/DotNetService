@@ -1,0 +1,15 @@
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\_drop\Persistence.Implementation.dll
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\_drop\Persistence.Implementation.pdb
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\Persistence.Implementation\obj\Debug\Persistence.Implementation.csprojResolveAssemblyReference.cache
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\Persistence.Implementation\obj\Debug\Persistence.Implementation.dll
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Tagging.Service\Persistence.Implementation\obj\Debug\Persistence.Implementation.pdb
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Template\_drop\Persistence.Implementation.dll
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Template\_drop\Persistence.Implementation.pdb
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Template\Persistence.Implementation\obj\Debug\Persistence.Implementation.csprojResolveAssemblyReference.cache
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Template\Persistence.Implementation\obj\Debug\Persistence.Implementation.dll
+C:\IBM\DM\rtc\Main\MSApplications\DealManagement\Application\Services\SOA\Template\Persistence.Implementation\obj\Debug\Persistence.Implementation.pdb
+C:\Tech\REST\_drop\Persistence.Implementation.dll
+C:\Tech\REST\_drop\Persistence.Implementation.pdb
+C:\Tech\REST\Persistence.Implementation\obj\Debug\Persistence.Implementation.csprojResolveAssemblyReference.cache
+C:\Tech\REST\Persistence.Implementation\obj\Debug\Persistence.Implementation.dll
+C:\Tech\REST\Persistence.Implementation\obj\Debug\Persistence.Implementation.pdb

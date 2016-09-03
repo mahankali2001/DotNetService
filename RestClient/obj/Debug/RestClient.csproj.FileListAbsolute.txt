@@ -1,0 +1,13 @@
+C:\Work\Main\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Debug\RestClient.dll
+C:\Work\Main\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Debug\RestClient.pdb
+C:\Work\Main\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Debug\Core.Logger.dll
+C:\Work\Main\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Debug\RestSharp.dll
+C:\Work\Main\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Debug\log4net.dll
+C:\Work\Main\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Debug\Core.Logger.pdb
+C:\Work\Main\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Debug\RestSharp.xml
+C:\Work\Main\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Debug\log4net.xml
+C:\Work\Main\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\obj\Debug\RestClient.csprojResolveAssemblyReference.cache
+C:\Work\Main\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\obj\Debug\RestClient.dll
+C:\Work\Main\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\obj\Debug\RestClient.pdb
+C:\Work\Main\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Debug\Service.Contracts.dll
+C:\Work\Main\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Debug\Service.Contracts.pdb

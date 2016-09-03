@@ -1,0 +1,13 @@
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Release\MicroService.InterServiceLibrary.dll
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Release\MicroService.InterServiceLibrary.pdb
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Release\Core.Logger.dll
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Release\RestSharp.dll
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Release\Service.Contracts.dll
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Release\log4net.dll
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Release\Core.Logger.pdb
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Release\Service.Contracts.pdb
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Release\RestSharp.xml
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\bin\Release\log4net.xml
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\obj\Release\MicroService.InterServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\obj\Release\MicroService.InterServiceLibrary.dll
+C:\Prod\Release\Main\MSApplications\DealManagement\Application\Services\SOA\Demandtec.DealManagement.Promotion.Calendar\RestClient\obj\Release\MicroService.InterServiceLibrary.pdb
