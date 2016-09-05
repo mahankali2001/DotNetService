@@ -13,7 +13,7 @@
         public const string RESTExternalHello = "Hello/{name}";
 
         public const string GetUsers = "app/users/";
-        public const string GetPagedUsers = "app/users/?uid={1}&pageIndex={2}&pageSize={3}&filters={4}&sortColumn={5}&sortOrder={6}&active={7}";
+        public const string GetPagedUsers = "app/users/?uid={uid}&pageIndex={pageIndex}&pageSize={pageSize}&filters={filters}&sortColumn={sortColumn}&sortOrder={sortOrder}&active={active}";
         public const string GetUser = "app/users/{uid}/";
         public const string SaveUsers = "app/users/input/";
         public const string DeleteUser = "app/users/delete/{uid}/";

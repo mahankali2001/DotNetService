@@ -30,6 +30,8 @@ namespace Demandtec.DealManagement.Contracts.Data
         public string firstName { get; set; }
         [DataMember]
         public string lastName { get; set; }
+        [DataMember]
+        public string errorCode { get; set; }
     }
 
 }
