@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading;
 using Service.Contracts.Data;
-using Demandtec.DealManagement.Contracts.Data;
+using Service.Contracts.Data;
 
 namespace Service.Contracts.Context
 {

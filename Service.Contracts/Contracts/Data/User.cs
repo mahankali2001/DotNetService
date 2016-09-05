@@ -5,7 +5,7 @@ using System.Text;
 using System.Runtime.Serialization;
 using Service.Contracts;
 
-namespace Demandtec.DealManagement.Contracts.Data
+namespace Service.Contracts.Data
 {
     /// <summary>
     /// User contains complete information on Application User.

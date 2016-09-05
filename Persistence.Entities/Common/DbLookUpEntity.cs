@@ -1,4 +1,4 @@
-﻿namespace Demandtec.DealManagement.Entities
+﻿namespace Persistence.Entities
 {
     using System;
     using System.Collections.Generic;

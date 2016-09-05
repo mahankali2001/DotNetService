@@ -52,8 +52,8 @@ namespace MicroService
         #endregion
 
         private const string WebConsumerKey = "9000495c-98a2-4740-9e09-1f4b1b3cb2c1";
-        private const string WebconsumerSecret = "demandramesh123";
-        //private Uri uri = new Uri("http://localhost/Demandtec/DM/REST/1.0");
+        private const string WebconsumerSecret = "123";
+        //private Uri uri = new Uri("http://localhost:8060/User/REST/1.0");
 
         protected const string OAuthVersion = "1.0";
         protected const string OAuthParameterPrefix = "oauth_";

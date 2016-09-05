@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("GenericeService.Persistence.Entities")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("IBM")]
+[assembly: AssemblyCompany("XYZ")]
 [assembly: AssemblyProduct("GenericeService.Persistence.Entities")]
-[assembly: AssemblyCopyright("Copyright © IBM 2016")]
+[assembly: AssemblyCopyright("Copyright © XYZ 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

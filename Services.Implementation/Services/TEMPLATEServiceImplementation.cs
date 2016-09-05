@@ -5,7 +5,7 @@ using System.Globalization;
 using System.Linq;
 using System.ServiceModel;
 using System.Text.RegularExpressions;
-using Demandtec.DealManagement.Contracts.Data;
+using Service.Contracts.Data;
 using Services.Implementation.Core;
 using Service.Contracts;
 using Service.Contracts.Services;

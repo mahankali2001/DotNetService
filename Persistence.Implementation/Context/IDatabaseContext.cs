@@ -1,5 +1,5 @@
 ﻿// -----------------------------------------------------------------------
-// <copyright file="IDatabaseContext.cs" company="IBM">
+// <copyright file="IDatabaseContext.cs" company="XYZ">
 // TODO: Update copyright text.
 // </copyright>
 // -----------------------------------------------------------------------

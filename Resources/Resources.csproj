@@ -54,6 +54,7 @@
     <EmbeddedResource Include="TEMPLATE.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>TEMPLATE.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>

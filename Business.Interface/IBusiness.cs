@@ -1,5 +1,5 @@
 ﻿// -----------------------------------------------------------------------
-// <copyright file="IBusiness.cs" company="IBM">
+// <copyright file="IBusiness.cs" company="XYZ">
 // TODO: Update copyright text.
 // </copyright>
 // -----------------------------------------------------------------------

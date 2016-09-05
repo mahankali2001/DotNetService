@@ -1,5 +1,4 @@
-﻿using Demandtec.DealManagement.Contracts.Data;
-using Service.Contracts.Data;
+﻿using Service.Contracts.Data;
 
 namespace Business.Interface
 {

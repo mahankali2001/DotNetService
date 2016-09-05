@@ -4,8 +4,8 @@ namespace Service.Contracts
 {
     public class ServiceConstants
     {
-        public const string ServiceNameSpace = "http://www.ibm.com/demandtec/2016/03/Services";
-        public const string DataContractNameSpace = "http://www.ibm.com/demandtec/2016/03/Services/Data";
+        public const string ServiceNameSpace = "http://www.xyz.com/2016/03/Services";
+        public const string DataContractNameSpace = "http://www.xyz.com/2016/03/Services/Data";
         public const string InternalVersionNumber = "1.0";
         public const string ExternalVersionNumber = "v1";
 

@@ -26,7 +26,7 @@ namespace Services.Implementation.Client.OAuth
         const string MobileConsumerSecret = "a793267d-2fa6-408b-b763-617aebe2de67";
 
 
-        private Uri consturi = new Uri("http://localhost/Demandtec/DM/REST/1.0");
+        private Uri consturi = new Uri("http://localhost:8060/User/REST/1.0");
         protected const string OAuthVersion = "1.0";
         protected const string OAuthParameterPrefix = "oauth_";
         protected const string OAuthConsumerKeyKey = "oauth_consumer_key";
@@ -430,7 +430,7 @@ namespace Services.Implementation.Client.OAuth
 
         #endregion
 
-        public bool Authenticate(string oauth,  string httpMethod, string uri = "http://localhost/Demandtec/DM/REST/1.0")
+        public bool Authenticate(string oauth,  string httpMethod, string uri = "http://localhost:8060/User/REST/1.0")
         {
             string oauth_consumer_key = string.Empty, oauth_timestamp = string.Empty, oauth_nonce = string.Empty, oauth_signature = string.Empty;
             string[] o = oauth.Split('&');

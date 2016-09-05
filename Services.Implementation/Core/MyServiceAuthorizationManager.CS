@@ -31,7 +31,7 @@ namespace Services.Implementation.Core
                 {
                     foreach (
                         Claim c in
-                            cs.FindClaims("http://demandtec.ibm.com/dm/deals/allowedoperation", Rights.PossessProperty))
+                            cs.FindClaims("http://www.xyz.com/deals/allowedoperation", Rights.PossessProperty))
                     {
                         if (action == c.Resource.ToString())
                             return true;

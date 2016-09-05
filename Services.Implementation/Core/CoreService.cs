@@ -14,7 +14,7 @@ using System.Globalization;
 using Service.Contracts.Data;
 using Service.Contracts.Context;
 using Business.Interface;
-using Demandtec.DealManagement.Contracts.Data;
+using Service.Contracts.Data;
 
 namespace Services.Implementation.Core
 {

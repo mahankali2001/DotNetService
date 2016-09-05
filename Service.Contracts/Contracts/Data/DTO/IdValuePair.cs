@@ -1,7 +1,7 @@
 ﻿using System.Data;
 using System.Runtime.Serialization;
 
-namespace Demandtec.DealManagement.Contracts.Data
+namespace Service.Contracts.Data
 {
     [DataContract]
     public class IdValuePair

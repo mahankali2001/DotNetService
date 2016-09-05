@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ServiceModel;
 using System.ServiceModel.Web;
-using Demandtec.DealManagement.Contracts.Data;
+using Service.Contracts.Data;
 using Service.Contracts.Core;
 
 namespace Service.Contracts.Services

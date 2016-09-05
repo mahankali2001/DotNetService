@@ -6,7 +6,7 @@ using System.Globalization;
 using System.Linq;
 using Business.Interface;
 using Core.Logger;
-using Demandtec.DealManagement.Contracts.Data;
+using Service.Contracts.Data;
 using MicroService.Models;
 using Persistence.Entities;
 using Persistence.Entities.Common;
