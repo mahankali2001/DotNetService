@@ -17,6 +17,7 @@ namespace Persistence.Implementation.Repository
 
     public class TEMPLATERepository : EntityRepository, ITEMPLATERepository
     {
+        
         public TEMPLATERepository(RepositoryContext context): base(context)
         {}
 
@@ -30,6 +31,19 @@ namespace Persistence.Implementation.Repository
         public DataTable GetUsers()
         {
              return this.DatabaseContext.ExecuteReader("select * from [dbo].[user]", CommandType.Text , null);
+        }
+
+        public DataTable GetPagedUsers(int uid, int pageIndex, int pageSize, string filters, string sortColumn, string sortOrder, int active)
+        {
+            return this.DatabaseContext.ExecuteReader("GetUsers", CommandType.StoredProcedure,
+                                                                  this.DatabaseContext.CreateParameter("@PageIndex", pageIndex),
+                                                                  this.DatabaseContext.CreateParameter("@PageSize", pageSize),
+                                                                  this.DatabaseContext.CreateParameter("@FilterData", filters),
+                                                                  this.DatabaseContext.CreateParameter("@SortColumn", sortColumn),
+                                                                  this.DatabaseContext.CreateParameter("@SortOrder", sortOrder),                                                  
+                                                                  this.DatabaseContext.CreateParameter("@UserId", uid),
+                                                                  this.DatabaseContext.CreateParameter("@Active", active)
+                );
         }
     }
 }

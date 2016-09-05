@@ -20,7 +20,7 @@ namespace Services.Implementation.Core
 
         public void BeforeSendReply(ref Message reply, object correlationState)
         {
-            reply.Headers.Add(MessageHeader.CreateHeader("Access-Control-Allow-Origin", "namespace", "*"));
+            //reply.Headers.Add(MessageHeader.CreateHeader("Access-Control-Allow-Origin", "namespace", "*"));
  
             ErrorHandlerHelper.WriteToLogFile("WCF:[Send]" + reply, LogType.Info);
         }

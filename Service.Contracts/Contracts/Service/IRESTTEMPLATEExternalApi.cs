@@ -19,6 +19,10 @@ namespace Service.Contracts.Services
         List<UserResponse> GetUsers();
 
         [OperationContract]
+        [WebGet(BodyStyle = WebMessageBodyStyle.Wrapped, UriTemplate = RestUrls.GetPagedUsers, RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json)]
+        List<UserResponse> GetPagedUsers(string uid, string pageIndex, string pageSize, string filters, string sortColumn, string sortOrder, string active);
+
+        [OperationContract]
         [WebGet(BodyStyle = WebMessageBodyStyle.Wrapped, UriTemplate = RestUrls.GetUser, RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json)]
         UserResponse GetUser(string uid);
 

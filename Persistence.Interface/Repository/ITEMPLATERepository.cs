@@ -11,5 +11,8 @@ namespace Persistence.Interface.Repository
     {
         string GetHello(string name);
         DataTable GetUsers();
+
+        DataTable GetPagedUsers(int uid, int pageIndex, int pageSize, string filters, string sortColumn,
+                           string sortOrder, int active);
     }
 }

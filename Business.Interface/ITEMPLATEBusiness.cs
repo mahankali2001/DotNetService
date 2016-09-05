@@ -8,5 +8,8 @@ namespace Business.Interface
     {
         string GetHello(string name);
         List<UserResponse> GetUsers();
+
+        List<UserResponse> GetPagedUsers(int uid, int pageIndex, int pageSize, string filters, string sortColumn,
+                                    string sortOrder, int active);
     }
 }

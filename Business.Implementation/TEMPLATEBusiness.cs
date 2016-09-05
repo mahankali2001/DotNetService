@@ -50,6 +50,19 @@ namespace Business.Implementation
             return urList;
         }
 
+        public List<UserResponse> GetPagedUsers(int uid, int pageIndex, int pageSize, string filters, string sortColumn, string sortOrder, int active)
+        {
+            DataTable dt = repository.GetPagedUsers(CustomRequestContext.AppUserId, pageIndex, pageSize, filters, sortColumn, sortOrder, active);
+            List<UserResponse> urList = new List<UserResponse>();
+            if (dt != null && dt.Rows.Count > 0)
+            {
+                return MapUserDataTableToUserResponse(dt);
+            }
+            //urList.Add(MapUDTOToUserResponse(uDTO));
+
+            return urList;
+        }
+
         public List<UserResponse> MapUserDataTableToUserResponse(DataTable u)
         {
             List<UserResponse> urList = new List<UserResponse>();

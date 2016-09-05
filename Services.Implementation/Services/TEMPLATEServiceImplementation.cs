@@ -58,6 +58,15 @@ namespace Services.Implementation
             }
         }
 
+        public List<UserResponse> GetPagedUsers(string uid, string pageIndex, string pageSize, string filters, string sortColumn, string sortOrder, string active)
+        {
+            using (var context = ResolveContext())
+            {
+                var business = context.GetBusinessManager().GetTEMPLATEBusiness();
+                return business.GetPagedUsers(string.IsNullOrEmpty(uid) ? 0 : Int32.Parse(uid), string.IsNullOrEmpty(pageIndex) ? 1 : Int32.Parse(pageIndex), string.IsNullOrEmpty(pageSize) ? 10 : Int32.Parse(pageSize), filters, sortColumn, sortOrder, string.IsNullOrEmpty(active) ? 2 : Int32.Parse(active));
+            }
+        }
+
         public UserResponse GetUser(string uid)
         {
             throw new NotImplementedException();
