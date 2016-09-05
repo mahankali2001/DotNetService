@@ -35,6 +35,8 @@ namespace Persistence.Implementation.Repository
 
         public DataTable GetPagedUsers(int uid, int pageIndex, int pageSize, string filters, string sortColumn, string sortOrder, int active)
         {
+            
+            
             return this.DatabaseContext.ExecuteReader("GetUsers", CommandType.StoredProcedure,
                                                                   this.DatabaseContext.CreateParameter("@PageIndex", pageIndex),
                                                                   this.DatabaseContext.CreateParameter("@PageSize", pageSize),

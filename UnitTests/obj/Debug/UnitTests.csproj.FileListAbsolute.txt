@@ -16,3 +16,9 @@ C:\Tech\REST\_drop\UnitTests.pdb
 C:\Tech\REST\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
 C:\Tech\REST\UnitTests\obj\Debug\UnitTests.dll
 C:\Tech\REST\UnitTests\obj\Debug\UnitTests.pdb
+C:\Ramji\git\Dotnet\DotNetService\_drop\UnitTests.dll.config
+C:\Ramji\git\Dotnet\DotNetService\_drop\UnitTests.dll
+C:\Ramji\git\Dotnet\DotNetService\_drop\UnitTests.pdb
+C:\Ramji\git\Dotnet\DotNetService\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Ramji\git\Dotnet\DotNetService\UnitTests\obj\Debug\UnitTests.dll
+C:\Ramji\git\Dotnet\DotNetService\UnitTests\obj\Debug\UnitTests.pdb

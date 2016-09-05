@@ -16,3 +16,9 @@ C:\Tech\REST\Service.Contracts\obj\Debug\Service.Contracts.Resources.ValidationM
 C:\Tech\REST\Service.Contracts\obj\Debug\Service.Contracts.csproj.GenerateResource.Cache
 C:\Tech\REST\Service.Contracts\obj\Debug\Service.Contracts.dll
 C:\Tech\REST\Service.Contracts\obj\Debug\Service.Contracts.pdb
+C:\Ramji\git\Dotnet\DotNetService\_drop\Service.Contracts.dll
+C:\Ramji\git\Dotnet\DotNetService\_drop\Service.Contracts.pdb
+C:\Ramji\git\Dotnet\DotNetService\Service.Contracts\obj\Debug\Service.Contracts.Resources.ValidationMessages.resources
+C:\Ramji\git\Dotnet\DotNetService\Service.Contracts\obj\Debug\Service.Contracts.csproj.GenerateResource.Cache
+C:\Ramji\git\Dotnet\DotNetService\Service.Contracts\obj\Debug\Service.Contracts.dll
+C:\Ramji\git\Dotnet\DotNetService\Service.Contracts\obj\Debug\Service.Contracts.pdb

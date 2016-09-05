@@ -31,3 +31,8 @@ C:\Tech\REST\_drop\MicroService.InterServiceLibrary.pdb
 C:\Tech\REST\RestClient\obj\Debug\MicroService.InterServiceLibrary.csprojResolveAssemblyReference.cache
 C:\Tech\REST\RestClient\obj\Debug\MicroService.InterServiceLibrary.dll
 C:\Tech\REST\RestClient\obj\Debug\MicroService.InterServiceLibrary.pdb
+C:\Ramji\git\Dotnet\DotNetService\_drop\MicroService.InterServiceLibrary.dll
+C:\Ramji\git\Dotnet\DotNetService\_drop\MicroService.InterServiceLibrary.pdb
+C:\Ramji\git\Dotnet\DotNetService\RestClient\obj\Debug\MicroService.InterServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Ramji\git\Dotnet\DotNetService\RestClient\obj\Debug\MicroService.InterServiceLibrary.dll
+C:\Ramji\git\Dotnet\DotNetService\RestClient\obj\Debug\MicroService.InterServiceLibrary.pdb

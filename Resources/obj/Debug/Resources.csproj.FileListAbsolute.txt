@@ -19,3 +19,10 @@ C:\Tech\REST\Resources\obj\Debug\Resources.TEMPLATE.resources
 C:\Tech\REST\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
 C:\Tech\REST\Resources\obj\Debug\Resources.dll
 C:\Tech\REST\Resources\obj\Debug\Resources.pdb
+C:\Ramji\git\Dotnet\DotNetService\_drop\Resources.dll
+C:\Ramji\git\Dotnet\DotNetService\_drop\Resources.pdb
+C:\Ramji\git\Dotnet\DotNetService\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+C:\Ramji\git\Dotnet\DotNetService\Resources\obj\Debug\Resources.TEMPLATE.resources
+C:\Ramji\git\Dotnet\DotNetService\Resources\obj\Debug\Resources.csproj.GenerateResource.Cache
+C:\Ramji\git\Dotnet\DotNetService\Resources\obj\Debug\Resources.dll
+C:\Ramji\git\Dotnet\DotNetService\Resources\obj\Debug\Resources.pdb

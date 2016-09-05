@@ -30,3 +30,9 @@ C:\Tech\REST\_drop\Utility.pdb
 C:\Tech\REST\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
 C:\Tech\REST\Utility\obj\Debug\Utility.dll
 C:\Tech\REST\Utility\obj\Debug\Utility.pdb
+C:\Ramji\git\Dotnet\DotNetService\_drop\Utility.dll.config
+C:\Ramji\git\Dotnet\DotNetService\_drop\Utility.dll
+C:\Ramji\git\Dotnet\DotNetService\_drop\Utility.pdb
+C:\Ramji\git\Dotnet\DotNetService\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Ramji\git\Dotnet\DotNetService\Utility\obj\Debug\Utility.dll
+C:\Ramji\git\Dotnet\DotNetService\Utility\obj\Debug\Utility.pdb

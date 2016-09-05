@@ -12,3 +12,8 @@ C:\Tech\REST\_drop\Core.Logger.pdb
 C:\Tech\REST\Core.Logger\obj\Debug\Core.Logger.dll
 C:\Tech\REST\Core.Logger\obj\Debug\Core.Logger.pdb
 C:\Tech\REST\Core.Logger\obj\Debug\Core.Logger.csprojResolveAssemblyReference.cache
+C:\Ramji\git\Dotnet\DotNetService\_drop\Core.Logger.dll
+C:\Ramji\git\Dotnet\DotNetService\_drop\Core.Logger.pdb
+C:\Ramji\git\Dotnet\DotNetService\Core.Logger\obj\Debug\Core.Logger.csprojResolveAssemblyReference.cache
+C:\Ramji\git\Dotnet\DotNetService\Core.Logger\obj\Debug\Core.Logger.dll
+C:\Ramji\git\Dotnet\DotNetService\Core.Logger\obj\Debug\Core.Logger.pdb

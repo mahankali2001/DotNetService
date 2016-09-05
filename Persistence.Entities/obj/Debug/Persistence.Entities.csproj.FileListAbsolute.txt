@@ -15,3 +15,9 @@ C:\Tech\REST\_drop\Persistence.Entities.pdb
 C:\Tech\REST\Persistence.Entities\obj\Debug\Persistence.Entities.csprojResolveAssemblyReference.cache
 C:\Tech\REST\Persistence.Entities\obj\Debug\Persistence.Entities.dll
 C:\Tech\REST\Persistence.Entities\obj\Debug\Persistence.Entities.pdb
+C:\Ramji\git\Dotnet\DotNetService\_drop\Persistence.Entities.dll.config
+C:\Ramji\git\Dotnet\DotNetService\_drop\Persistence.Entities.dll
+C:\Ramji\git\Dotnet\DotNetService\_drop\Persistence.Entities.pdb
+C:\Ramji\git\Dotnet\DotNetService\Persistence.Entities\obj\Debug\Persistence.Entities.csprojResolveAssemblyReference.cache
+C:\Ramji\git\Dotnet\DotNetService\Persistence.Entities\obj\Debug\Persistence.Entities.dll
+C:\Ramji\git\Dotnet\DotNetService\Persistence.Entities\obj\Debug\Persistence.Entities.pdb

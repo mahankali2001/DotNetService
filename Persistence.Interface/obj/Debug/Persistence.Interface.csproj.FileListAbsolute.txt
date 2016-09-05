@@ -16,3 +16,9 @@ C:\Tech\REST\_drop\Persistence.Interface.pdb
 C:\Tech\REST\Persistence.Interface\obj\Debug\Persistence.Interface.csprojResolveAssemblyReference.cache
 C:\Tech\REST\Persistence.Interface\obj\Debug\Persistence.Interface.dll
 C:\Tech\REST\Persistence.Interface\obj\Debug\Persistence.Interface.pdb
+C:\Ramji\git\Dotnet\DotNetService\_drop\Persistence.Interface.dll.config
+C:\Ramji\git\Dotnet\DotNetService\_drop\Persistence.Interface.dll
+C:\Ramji\git\Dotnet\DotNetService\_drop\Persistence.Interface.pdb
+C:\Ramji\git\Dotnet\DotNetService\Persistence.Interface\obj\Debug\Persistence.Interface.csprojResolveAssemblyReference.cache
+C:\Ramji\git\Dotnet\DotNetService\Persistence.Interface\obj\Debug\Persistence.Interface.dll
+C:\Ramji\git\Dotnet\DotNetService\Persistence.Interface\obj\Debug\Persistence.Interface.pdb

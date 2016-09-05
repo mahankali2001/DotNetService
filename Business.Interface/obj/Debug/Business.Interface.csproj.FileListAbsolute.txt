@@ -16,3 +16,9 @@ C:\Tech\REST\_drop\Business.Interface.pdb
 C:\Tech\REST\Business.Interface\obj\Debug\Business.Interface.csprojResolveAssemblyReference.cache
 C:\Tech\REST\Business.Interface\obj\Debug\Business.Interface.dll
 C:\Tech\REST\Business.Interface\obj\Debug\Business.Interface.pdb
+C:\Ramji\git\Dotnet\DotNetService\_drop\Business.Interface.dll.config
+C:\Ramji\git\Dotnet\DotNetService\_drop\Business.Interface.dll
+C:\Ramji\git\Dotnet\DotNetService\_drop\Business.Interface.pdb
+C:\Ramji\git\Dotnet\DotNetService\Business.Interface\obj\Debug\Business.Interface.csprojResolveAssemblyReference.cache
+C:\Ramji\git\Dotnet\DotNetService\Business.Interface\obj\Debug\Business.Interface.dll
+C:\Ramji\git\Dotnet\DotNetService\Business.Interface\obj\Debug\Business.Interface.pdb

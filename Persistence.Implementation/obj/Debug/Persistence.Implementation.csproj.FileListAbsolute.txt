@@ -13,3 +13,8 @@ C:\Tech\REST\_drop\Persistence.Implementation.pdb
 C:\Tech\REST\Persistence.Implementation\obj\Debug\Persistence.Implementation.csprojResolveAssemblyReference.cache
 C:\Tech\REST\Persistence.Implementation\obj\Debug\Persistence.Implementation.dll
 C:\Tech\REST\Persistence.Implementation\obj\Debug\Persistence.Implementation.pdb
+C:\Ramji\git\Dotnet\DotNetService\_drop\Persistence.Implementation.dll
+C:\Ramji\git\Dotnet\DotNetService\_drop\Persistence.Implementation.pdb
+C:\Ramji\git\Dotnet\DotNetService\Persistence.Implementation\obj\Debug\Persistence.Implementation.csprojResolveAssemblyReference.cache
+C:\Ramji\git\Dotnet\DotNetService\Persistence.Implementation\obj\Debug\Persistence.Implementation.dll
+C:\Ramji\git\Dotnet\DotNetService\Persistence.Implementation\obj\Debug\Persistence.Implementation.pdb

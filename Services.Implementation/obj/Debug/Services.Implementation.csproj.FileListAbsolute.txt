@@ -16,3 +16,9 @@ C:\Tech\REST\_drop\Services.Implementation.pdb
 C:\Tech\REST\Services.Implementation\obj\Debug\Services.Implementation.csprojResolveAssemblyReference.cache
 C:\Tech\REST\Services.Implementation\obj\Debug\Services.Implementation.dll
 C:\Tech\REST\Services.Implementation\obj\Debug\Services.Implementation.pdb
+C:\Ramji\git\Dotnet\DotNetService\_drop\Version.txt
+C:\Ramji\git\Dotnet\DotNetService\_drop\Services.Implementation.dll
+C:\Ramji\git\Dotnet\DotNetService\_drop\Services.Implementation.pdb
+C:\Ramji\git\Dotnet\DotNetService\Services.Implementation\obj\Debug\Services.Implementation.csprojResolveAssemblyReference.cache
+C:\Ramji\git\Dotnet\DotNetService\Services.Implementation\obj\Debug\Services.Implementation.dll
+C:\Ramji\git\Dotnet\DotNetService\Services.Implementation\obj\Debug\Services.Implementation.pdb

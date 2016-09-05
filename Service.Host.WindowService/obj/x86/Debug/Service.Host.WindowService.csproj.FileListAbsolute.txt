@@ -18,3 +18,13 @@ C:\Tech\REST\Service.Host.WindowService\obj\x86\Debug\Service.Host.WindowService
 C:\Tech\REST\Service.Host.WindowService\obj\x86\Debug\Service.Host.WindowService.csproj.GenerateResource.Cache
 C:\Tech\REST\Service.Host.WindowService\obj\x86\Debug\Service.Host.WindowService.exe
 C:\Tech\REST\Service.Host.WindowService\obj\x86\Debug\Service.Host.WindowService.pdb
+C:\Ramji\git\Dotnet\DotNetService\_drop\HybridWindowsService.dll
+C:\Ramji\git\Dotnet\DotNetService\_drop\app.config
+C:\Ramji\git\Dotnet\DotNetService\_drop\Service.Host.WindowService.exe.config
+C:\Ramji\git\Dotnet\DotNetService\_drop\Service.Host.WindowService.exe
+C:\Ramji\git\Dotnet\DotNetService\_drop\Service.Host.WindowService.pdb
+C:\Ramji\git\Dotnet\DotNetService\Service.Host.WindowService\obj\x86\Debug\Service.Host.WindowService.csprojResolveAssemblyReference.cache
+C:\Ramji\git\Dotnet\DotNetService\Service.Host.WindowService\obj\x86\Debug\Service.Host.WindowService.ProjectInstaller.resources
+C:\Ramji\git\Dotnet\DotNetService\Service.Host.WindowService\obj\x86\Debug\Service.Host.WindowService.csproj.GenerateResource.Cache
+C:\Ramji\git\Dotnet\DotNetService\Service.Host.WindowService\obj\x86\Debug\Service.Host.WindowService.exe
+C:\Ramji\git\Dotnet\DotNetService\Service.Host.WindowService\obj\x86\Debug\Service.Host.WindowService.pdb
