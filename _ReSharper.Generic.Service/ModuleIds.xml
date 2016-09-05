@@ -8,4 +8,7 @@
   <Module PersistentId="147EF131-BA86-4018-9D85-C25321389F4C" ModuleId="Persistence.Implementation" />
   <Module PersistentId="E24BF4B2-292E-4AB8-A196-02DDC5862EC1" ModuleId="Persistence.Entities" />
   <Module PersistentId="4E4D9EF1-BD56-4261-B761-F1C2F37086E0" ModuleId="Services.Implementation" />
+  <Module PersistentId="D3C86889-0D67-4367-B41C-2817A068B56F" ModuleId="UnitTests" />
+  <Module PersistentId="0944640E-66E7-4CAC-960E-25BE304C8E2E" ModuleId="Service.Host" />
+  <Module PersistentId="3F6B0C23-0D97-42C5-B238-700EF083A140" ModuleId="Service.Host.WindowService" />
 </Modules>
