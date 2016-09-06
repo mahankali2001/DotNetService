@@ -15,6 +15,7 @@ namespace Persistence.Implementation
 {
     public class DataManager : IDataManager
     {
+
         private RepositoryContext _context;
         public DataManager(DbConnection connection)
         {
