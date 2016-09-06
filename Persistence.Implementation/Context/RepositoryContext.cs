@@ -55,6 +55,18 @@ namespace Persistence.Implementation.Context
 
             //modelBuilder.Entity<TEMPLATEEntity>();
             modelBuilder.Entity<User>();
+
+            //modelBuilder.Entity<CommonDeal>().HasRequired(c => c.MasterDeal).WithMany(c => c.LocationDeals).HasForeignKey(c => c.MasterDealID);
+
+            //modelBuilder.Entity<CommonDeal>().Property(c => c.VendorAttributes.Name).HasColumnName("VendorName");
+
+            //modelBuilder.Entity<CostChangeLocationSetItems>().Property(c => c.NewCost1).HasColumnName("NewCost1").HasPrecision(18, 4);
+
+            //modelBuilder.Entity<UserSignup>().Property(c => c.Audit.CreateDateTime).HasColumnName("CreateDatetime");
+            //modelBuilder.Entity<UserSignup>().Property(c => c.Audit.CreatedBy).HasColumnName("CreatedBy");
+            //modelBuilder.Entity<UserSignup>().Property(c => c.Audit.UpdatedDateTime).HasColumnName("UpdatedDateTime");
+            //modelBuilder.Entity<UserSignup>().Property(c => c.Audit.UpdatedBy).HasColumnName("UpdatedBy");
+
             modelBuilder.HasDefaultSchema("dbo").Entity<DBEntities.EmailAttributes>();
             //modelBuilder.Entity<DBEntities.EmailAttributes>();
             #endregion

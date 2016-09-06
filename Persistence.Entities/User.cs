@@ -16,5 +16,8 @@ namespace Persistence.Entities
         public string firstName { get; set; }
 
         public string lastName { get; set; }
+
+        //public string VendorName { get; set; }
+        //public DealVendorAttributes VendorAttributes { get; set; }
     }
 }
