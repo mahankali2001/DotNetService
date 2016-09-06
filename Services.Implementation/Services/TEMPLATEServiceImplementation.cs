@@ -21,7 +21,6 @@ namespace Services.Implementation
 
     public partial class TEMPLATEServiceImplementation : CoreService, ISOAPTEMPLATEApi, IRESTTEMPLATEInternalApi, IRESTTEMPLATEExternalApi
     {
-
         public string GetSOAPHello(string name)
         {
             using (var context = ResolveContext())
