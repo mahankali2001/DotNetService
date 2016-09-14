@@ -69,12 +69,22 @@ namespace Services.Implementation
 
         public UserResponse GetUser(string uid)
         {
-            throw new NotImplementedException();
+            using (var context = ResolveContext())
+            {
+                var business = context.GetBusinessManager().GetTEMPLATEBusiness();
+                return business.GetUser(string.IsNullOrEmpty(uid) ? 0 : Int32.Parse(uid));
+            }
+            //throw new NotImplementedException();
         }
 
         public UserResponse SaveUser(UserRequest req)
         {
-            throw new NotImplementedException();
+            using (var context = ResolveContext())
+            {
+                var business = context.GetBusinessManager().GetTEMPLATEBusiness();
+                return business.SaveUser(req);
+            }
+            //throw new NotImplementedException();
         }
 
         public void DeleteUser(string uid)

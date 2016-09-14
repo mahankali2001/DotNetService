@@ -45,6 +45,20 @@ namespace Persistence.Implementation.Repository
                                                                   this.DatabaseContext.CreateParameter("@Active", active)
                 );
         }
+
+        public User GetUser(int uid)
+        {
+            //return this.DatabaseContext.ExecuteReader("select * from [dbo].[user] where uid=" + uid, CommandType.Text, null);
+            var users = from u in this.Read<User>()
+                        where u.uid == uid
+                        select u;
+            return users.ToList().FirstOrDefault();
+        }
+
+        public void Save(Entities.User entity)
+        {
+            this.SaveEntityWithAutoId(entity, entity.uid);
+        }
     }
 }
 

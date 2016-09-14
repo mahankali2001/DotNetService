@@ -43,7 +43,7 @@ namespace Business.Implementation
             List<UserResponse> urList = new List<UserResponse>();
             if (dt != null && dt.Rows.Count > 0)
             {
-                 return MapUserDataTableToUserResponse(dt);
+                return MapUserDataTableToUserResponseList(dt);
             }
             //urList.Add(MapUDTOToUserResponse(uDTO));
             
@@ -56,14 +56,42 @@ namespace Business.Implementation
             List<UserResponse> urList = new List<UserResponse>();
             if (dt != null && dt.Rows.Count > 0)
             {
-                return MapUserDataTableToUserResponse(dt);
+                return MapUserDataTableToUserResponseList(dt);
             }
             //urList.Add(MapUDTOToUserResponse(uDTO));
 
             return urList;
         }
 
-        public List<UserResponse> MapUserDataTableToUserResponse(DataTable u)
+        public UserResponse GetUser(int uid)
+        {
+            User user = repository.GetUser(uid);
+            UserResponse ur = new UserResponse();
+            if (user != null)
+            {
+                return MapUserEntityToUserResponse(user);
+            }
+            //urList.Add(MapUDTOToUserResponse(uDTO));
+
+            return ur;
+        }
+
+        public UserResponse SaveUser(UserRequest ur)
+        {
+            User user = MapUserRequestToUser(ur);
+            if(user.uid > 0)
+            {
+                repository.Save(user);
+            }
+            else
+            {
+                repository.Save(user);    
+            }
+            
+            return MapUserEntityToUserResponse(user);
+        }
+
+        public List<UserResponse> MapUserDataTableToUserResponseList(DataTable u)
         {
             List<UserResponse> urList = new List<UserResponse>();
             foreach (DataRow dr in u.Rows)
@@ -85,6 +113,26 @@ namespace Business.Implementation
                                       firstName = u.firstName,
                                       lastName = u.lastName
                                   };
+        }
+
+        public UserResponse MapUserEntityToUserResponse(User u)
+        {
+            return new UserResponse()
+            {
+                uid = u.uid,
+                firstName = u.firstName,
+                lastName = u.lastName
+            };
+        }
+
+        public User MapUserRequestToUser(UserRequest ur)
+        {
+            return new User()
+            {
+                uid = ur.uid,
+                firstName = ur.firstName,
+                lastName = ur.lastName
+            };
         }
     }
 }

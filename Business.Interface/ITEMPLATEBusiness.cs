@@ -10,5 +10,9 @@ namespace Business.Interface
 
         List<UserResponse> GetPagedUsers(int uid, int pageIndex, int pageSize, string filters, string sortColumn,
                                     string sortOrder, int active);
+
+        UserResponse GetUser(int uid);
+
+        UserResponse SaveUser(UserRequest req);
     }
 }

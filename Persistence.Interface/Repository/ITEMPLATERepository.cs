@@ -14,5 +14,9 @@ namespace Persistence.Interface.Repository
 
         DataTable GetPagedUsers(int uid, int pageIndex, int pageSize, string filters, string sortColumn,
                            string sortOrder, int active);
+
+        User GetUser(int uid);
+
+        void Save(Entities.User user);
     }
 }
