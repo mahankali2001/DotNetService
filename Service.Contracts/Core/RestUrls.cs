@@ -16,8 +16,8 @@
         public const string GetPagedUsers = "app/users/?uid={uid}&pageIndex={pageIndex}&pageSize={pageSize}&filters={filters}&sortColumn={sortColumn}&sortOrder={sortOrder}&active={active}";
         public const string GetUser = "app/users/{uid}/";
         public const string SaveUsers = "app/users/input/";
-        public const string DeleteUser = "app/users/delete/{uid}/";
-        public const string CopyUser = "app/users/copy/{uid}/";
+        public const string DeleteUser = "app/users/{uid}/";
+        public const string CopyUser = "app/users/{uid}/copy/";
 
         //Micoservice to  other service 
         public const string GetVendorRepsForVendor                          = "vendors/{0}/reps/?pageIndex={1}&pageSize={2}";

@@ -39,7 +39,7 @@ namespace Service.Contracts.Services
         void DeleteUser(string uid);
 
         [OperationContract]
-        [WebGet(BodyStyle = WebMessageBodyStyle.Wrapped, UriTemplate = RestUrls.CopyUser,
+        [WebInvoke(BodyStyle = WebMessageBodyStyle.Wrapped, Method = "POST", UriTemplate = RestUrls.CopyUser,
             RequestFormat = WebMessageFormat.Json, ResponseFormat = WebMessageFormat.Json)]
         void CopyUser(string uid);
     }

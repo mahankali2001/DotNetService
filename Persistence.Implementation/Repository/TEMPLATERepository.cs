@@ -126,6 +126,25 @@ namespace Persistence.Implementation.Repository
         //    result.Results = query.Skip(skip).Take(pageSize).ToList();
         //    return result;
         //}
+
+        public User GetUser(int uid)
+        {
+            //return this.DatabaseContext.ExecuteReader("select * from [dbo].[user] where uid=" + uid, CommandType.Text, null);
+            var users = from u in this.Read<User>()
+                        where u.uid == uid
+                        select u;
+            return users.ToList().FirstOrDefault();
+        }        
+
+        public void DeleteUser(Entities.User user)
+        {
+            base.DeleteEntity(user);
+        }
+
+        public void Save(Entities.User entity)
+        {
+            this.SaveEntityWithAutoId(entity, entity.uid);
+        }
     }
 }
 
