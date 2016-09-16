@@ -82,6 +82,12 @@ namespace Business.Implementation
             repository.DeleteUser(user);
         }
 
+        public void CopyUser(int uid)
+        {
+            User user = repository.GetUser(uid);
+            repository.CopyUser(user);
+        }
+
         public UserResponse SaveUser(UserRequest ur)
         {
             User user = MapUserRequestToUser(ur);

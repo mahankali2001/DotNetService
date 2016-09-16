@@ -20,5 +20,7 @@ namespace Persistence.Interface.Repository
         void Save(Entities.User user);
 
         void DeleteUser(Entities.User user);
+
+        void CopyUser(Entities.User user);
     }
 }

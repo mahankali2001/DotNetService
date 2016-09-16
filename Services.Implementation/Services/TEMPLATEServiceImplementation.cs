@@ -97,7 +97,11 @@ namespace Services.Implementation
 
         public void CopyUser(string uid)
         {
-            //throw new NotImplementedException();
+            using (var context = ResolveContext())
+            {
+                var business = context.GetBusinessManager().GetTEMPLATEBusiness();
+                business.CopyUser(string.IsNullOrEmpty(uid) ? 0 : Int32.Parse(uid));
+            }
         }
     }
 }                                       

@@ -141,6 +141,20 @@ namespace Persistence.Implementation.Repository
             base.DeleteEntity(user);
         }
 
+        public void CopyUser(Entities.User user)
+        {
+            //base.DeleteEntity(user);
+            User Ucopy = new User();
+            if (user != null)
+            {
+                Ucopy.firstName = user.firstName;
+                Ucopy.lastName = user.lastName;
+
+                this.InsertEntity<User>(Ucopy);
+            }
+
+        }
+
         public void Save(Entities.User entity)
         {
             this.SaveEntityWithAutoId(entity, entity.uid);

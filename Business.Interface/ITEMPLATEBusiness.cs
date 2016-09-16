@@ -16,5 +16,7 @@ namespace Business.Interface
         UserResponse SaveUser(UserRequest req);
 
         void DeleteUser(int uid);
+
+        void CopyUser(int uid);
     }
 }
